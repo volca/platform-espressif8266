@@ -65,8 +65,8 @@
     },
     "tool-esptool": {
       "type": "uploader",
-      "version": "https://github.com/volca/tool-esptool.git",
-      "version": "1.413.1"
+      "version": "1.413.1",
+      "owner": "volcas"
     },
     "tool-espotapy": {
       "type": "uploader",
